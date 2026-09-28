@@ -69,3 +69,38 @@ I declare that the above information is true to the best of my knowledge.
 <p align="center">
   <b>Thank you for visiting my GitHub profile!</b> 👋
 </p>
+# 🎓 EDUCATIONAL BACKGROUND
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=My+Educational+Background;Learning+Today%2C+Building+Tomorrow" />
+</p>
+
+---
+
+## 🏫 College
+
+**Zamboanga del Sur Provincial Government College – Midsalip Campus**
+
+📅 **Batch:** 2026–2027
+
+---
+
+## 🏫 Secondary
+
+**Midsalip National High School**
+
+📅 **Batch:** 2022–2023
+
+---
+
+## 🏫 Elementary
+
+**Cumarom Elementary School**
+
+📅 **Batch:** 2015–2016
+
+---
+
+<p align="center">
+  🎓 <b>Education is the foundation of success.</b> 🎓
+</p>
