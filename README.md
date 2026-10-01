@@ -29,6 +29,33 @@ Thanks for visiting my profile! 💻✨
 | **Marital Status** | Single |
 | **Nationality** | Filipino |
 | **Language Known** | Cebuano |
+## 🏫 College
+
+**Zamboanga del Sur Provincial Government College – Midsalip Campus**
+
+📅 **Batch:** 2026–2027
+
+---
+
+## 🏫 Secondary
+
+**Midsalip National High School**
+
+📅 **Batch:** 2022–2023
+
+---
+
+## 🏫 Elementary
+
+**Cumarom Elementary School**
+
+📅 **Batch:** 2015–2016
+
+---
+
+<p align="center">
+  🎓 <b>Education is the foundation of success.</b> 🎓
+</p>
 
 ---
 
@@ -77,30 +104,3 @@ I declare that the above information is true to the best of my knowledge.
 
 ---
 
-## 🏫 College
-
-**Zamboanga del Sur Provincial Government College – Midsalip Campus**
-
-📅 **Batch:** 2026–2027
-
----
-
-## 🏫 Secondary
-
-**Midsalip National High School**
-
-📅 **Batch:** 2022–2023
-
----
-
-## 🏫 Elementary
-
-**Cumarom Elementary School**
-
-📅 **Batch:** 2015–2016
-
----
-
-<p align="center">
-  🎓 <b>Education is the foundation of success.</b> 🎓
-</p>
