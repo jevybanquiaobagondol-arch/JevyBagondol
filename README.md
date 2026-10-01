@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Jevy+Bagondol;Welcome+to+my+GITHUB!)](https://git.io/typing-svg)
 <div align="center">
 
-# 😂 FUNNY PICTURE 😂
+
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
 
-### 🤣 Just for Laughs! 🤣
+
 
 </div>
 ---
